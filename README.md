@@ -2,7 +2,7 @@
 
 **AI-Powered Google Review Management Platform**
 
-[View Live Demo (reviewgo.net)](https://reviewgo.net)
+[View Live Demo (reviewgo.app)](https://reviewgo.app)
 
 > 🔒 **Private Source Code**: This repository serves as a portfolio showcase. The source code is private due to proprietary workflows and commercial licensing.
 
