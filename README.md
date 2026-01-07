@@ -1,3 +1,2 @@
 # reviewgo-showcase
-demo
-https://reviewgo.vercel.app
+https://reviewgo.app
